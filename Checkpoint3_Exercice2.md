@@ -2,7 +2,7 @@
 
 Q.2.1.1 Sur le serveur, créer un compte pour ton usage personnel.
 
-![Q.2.1.1](<Capture d'écran 2024-06-21 100623.png>)
+![Q.2.1.1](https://github.com/Ingalls666/Checkpoint-3/blob/main/Images%20CheckPoint%203/Q.2.1.1.png)
 
 Q.2.1.2
 
@@ -14,16 +14,16 @@ ___
 
 Q.2.2.1
 
-![Q.2.2.1](<Capture d'écran 2024-06-21 100930.png>)
+![Q.2.2.1](https://github.com/Ingalls666/Checkpoint-3/blob/main/Images%20CheckPoint%203/Q.2.2.1.png)
 
 Q.2.2.2
 
-![Q.2.2.2](<Capture d'écran 2024-06-21 101507.png>)
+![Q.2.2.2](https://github.com/Ingalls666/Checkpoint-3/blob/main/Images%20CheckPoint%203/Q.2.2.2.png)
 
 Q.2.2.3
 
-![Q.2.2.3](<Capture d'écran 2024-06-21 101011.png>)
-![Q.2.2.3-1](<Capture d'écran 2024-06-21 102249.png>)
+![Q.2.2.3](https://github.com/Ingalls666/Checkpoint-3/blob/main/Images%20CheckPoint%203/Q.2.2.3.png)
+![Q.2.2.3-1](https://github.com/Ingalls666/Checkpoint-3/blob/main/Images%20CheckPoint%203/Q.2.2.3-1.png)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 Q.2.6.1
 
-![Q.2.6.1](<Capture d'écran 2024-06-21 122156.png>)
+![Q.2.6.1](./Images%20CheckPoint%203/Q.2.6.1.png)
 
 
 - Je n'ai que 2 erreurs d'affichées car il n'y a eu 2 tentatives de connexions échouées depuis sa création
